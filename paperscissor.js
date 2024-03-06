@@ -72,7 +72,5 @@ const getUserChoice = userInput => {
     console.log(determineWinner(userChoice, computerChoice));
   };
   playGame();
-  
-  // Step 14
   // The cheat code is automatically applied in getUserChoice() and determineWinner()
   
